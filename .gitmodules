@@ -1,4 +1,4 @@
 [submodule "NEMEA"]
 	path = NEMEA
-	url = git@github.com:CESNET/Nemea-Dashboard.git
+	url = https://github.com/CESNET/Nemea-Dashboard.git
     branch = liberouter-gui
