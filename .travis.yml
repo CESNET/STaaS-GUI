@@ -32,7 +32,7 @@ before_script:
     - git clone https://github.com/CESNET/liberouter-gui.git --depth 1 --branch devel --single-branch
     - cd liberouter-gui
     - rm -rf modules
-    - git clone https://github.com/petrstehlik/STaaS-GUI.git --recursive --depth 1 modules/
+    - git clone https://github.com/CESNET/STaaS-GUI.git --recursive --depth 1 modules/
     - python3 bootstrap.py
     - npm install @angular/cli -g
 
