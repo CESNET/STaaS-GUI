@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CESNET/STaaS-GUI.svg?branch=master)](https://travis-ci.org/CESNET/STaaS-GUI)
+
 # GUI Modules
 
 This repo contains modules for [Liberouter GUI](https://github.com/CESNET/liberouter-gui)
