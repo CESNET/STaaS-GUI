@@ -2,6 +2,7 @@
     "module": {
         "class": "SecurityCloudModule",
         "file": "sc.module.ts",
-        "frontend": "frontend"
+        "frontend": "frontend",
+        "name" : "security-cloud"
     }
 }
