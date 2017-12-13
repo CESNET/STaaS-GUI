@@ -2,6 +2,7 @@
     "module": {
         "class": "FtasModule",
         "file": "ftas.module.ts",
-        "frontend": "frontend"
+        "frontend": "frontend",
+        "name" : "ftas"
     }
 }

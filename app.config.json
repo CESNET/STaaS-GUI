@@ -1,0 +1,10 @@
+{
+    "logo" : "assets/img/logo.png",
+    "name" : "StaaS GUI",
+    "api" : {
+		"url" : "/libapi",
+		"host" : null,
+		"port" : null,
+		"proto" : null
+	}
+}
